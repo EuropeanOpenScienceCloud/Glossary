@@ -1,8 +1,3 @@
----
-title: Data Service Provider
-menu: Data Service Provider
----
-
 # Data Service Supplier
 
 **Definition:** an [EOSC](EOSC) Supplier focusing on the provision of one or more Data Services, i.e. building blocks enacting the implementation and provisioning of an [EOSC] Service.

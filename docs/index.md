@@ -1,1 +1,5 @@
+---
+menu: false
+---
+
 # Glossary
