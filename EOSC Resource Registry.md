@@ -1,0 +1,5 @@
+# EOSC Resource Registry
+
+**Definition:** an EOSC Service providing EOSC System Users with a list of live / ready-to-use descriptions of EOSC Resource offered by the EOSC System.
+
+*Note:* Many EOSC Resource Registry instances may exist, each tailored to serve the needs of a designated community. At least one overall EOSC Resource Registry is likely to be operated to list the entire EOSC offering. Moreover, every EOSC Resource Registry is likely to be built / populated by relying on EOSC Service Component(s) including thematic catalogues, registries and repositories. Every entry of an EOSC Resource Registry must give relevant information (aka metadata) on the listed resources thus to enact its informed discovery and use, e.g. a description of resource intent and scope, a description on how to access it, a description of the license governing its usage. At least two specific typologies of EOSC Resource Registry are envisaged: the EOSC Dataset Registry and the EOSC Service Registry.
