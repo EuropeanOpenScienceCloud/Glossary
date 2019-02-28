@@ -1,0 +1,18 @@
+remote_theme: chromatical/jekyll-materialdocs
+
+title: EOSC Glossary
+description: EOSC Glossary
+copyright:
+logo: assets/eoscpilot-logo.png
+url: "https://europeanopensciencecloud.github.io"
+baseurl: "/Glossary"
+highlight: rouge
+mdl_colors: light_blue-blue
+search: true
+menu_style: dropdown
+
+# Build settings
+markdown: kramdown
+
+plugins:
+- jekyll-remote-theme
