@@ -1,7 +1,7 @@
 # Glossary
 
-How to read: https://mdovey.github.io/Glossary
+How to read: https://europeanopensciencecloud.github.io/Glossary/
 
-How to edit: https://github.com/mdovey/Glossary/docs
+How to edit: https://github.com/europeanopensciencecloud/Glossary/docs
 
 
