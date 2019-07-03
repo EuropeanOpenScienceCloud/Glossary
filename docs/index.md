@@ -4,9 +4,12 @@ menu: false
 
 # Glossary
 
-How to read: https://mdovey.github.io/Glossary
+How to read: https://europeanopensciencecloud.github.io/Glossary
 
-How to edit: https://github.com/mdovey/Glossary/docs
+How to edit: https://github.com/europeanopensciencecloud/Glossary/docs
+
+How to discuss: https://github.com/EuropeanOpenScienceCloud/Glossary/issues
+
 
 **Copyright notice:** This work is licensed under the Creative Commons CC-BY 4.0 license. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0. 
 
