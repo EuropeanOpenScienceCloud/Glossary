@@ -1,0 +1,3 @@
+# EOSC Node
+
+**Definition:** the component of the [](EOSC System.md) that is called to contribute to the provisioning of one or more [EOSC Services](EOSC Service.md). An EOSC Node: (a) is the place where [EOSC Services](EOSC Service.md) and/or [EOSC Service Components](EOSC Service Components.md) reside; (b) is operated by an [EOSC Service Provider](EOSC Service Provider.md) and/or an [EOSC Supplier](EOSC Supplier.md)

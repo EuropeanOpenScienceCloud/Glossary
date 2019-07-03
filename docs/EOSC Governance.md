@@ -1,0 +1,3 @@
+# EOSC Governance
+
+**Definition:** the set of committees and bodies governing the functioning of [EOSC](EOSC.md) and its [EOSC System](EOSC System.md). It includes the [EOSC Executive Board](EOSC Executive Board.md), the [EOSC Board](EOSC Board.md), and the [EOSC Stakeholders Forum](EOSC Stakeholders Forum.md). It liaises with the [EOSC System Steering Committee](EOSC System Steering Committee.md), the [EOSC Service Portfolio Management Committee](EOSC Service Portfolio Management Committee.md), the [EOSC System Executive Committee](EOSC System Executive Committee.md) regarding the development of the [EOSC System](EOSC System.md).
