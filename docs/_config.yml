@@ -3,7 +3,7 @@ remote_theme: chromatical/jekyll-materialdocs
 title: EOSC Glossary
 description: EOSC Glossary
 copyright:
-logo: assets/eoscpilot-logo.png
+logo: assets/eosc_logo.png
 url: "https://europeanopensciencecloud.github.io"
 baseurl: "/Glossary"
 highlight: rouge
